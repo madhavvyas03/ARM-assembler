@@ -8,7 +8,7 @@ import re
 import sys
 
 global qw 
-
+#hi what to do
 qw = {}
 
 global typea
